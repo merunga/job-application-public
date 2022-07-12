@@ -100,8 +100,9 @@ revisión y feedback de herramientas y con la simulación.**
 | Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
 | Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
 | Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviado de formulario de feedback al equipo         | Abierta  |          |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
 
 ## Mentorías Técnicas 
 
@@ -127,7 +128,7 @@ todavía estamos terminando de definir algunos detalles.
 |----------------------------------------------|----------|----------|---------:|
 | Sesión de Q&A sobre el programa.             |   Fija   |          |          |
 | Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviado de formulario de feedback al equipo. | Abierta  |          |          |
+| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
 
 ## Consideraciones generales
 
