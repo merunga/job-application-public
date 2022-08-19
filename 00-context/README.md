@@ -45,6 +45,17 @@ industria, basada en lo que hemos aprendido acompañando a las más de 2,400
 egresadas de Laboratoria. Tú participación es clave porque les permitirá tener
 un acercamiento inicial a la búsqueda de empleo, que intentaremos sea lo más
 real posible.
+
+## Objetivos de aprendizaje
+Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de aprendizaje que permiten a las estudiantes enfocar sus esfuerzos y  reflexionar sobre lo logrado. Con tu participación en alguna de las mentorías, ayudarás a las estudiantes a alcanzar los siguientes:
+
+- [ ] Entiendo cómo se vive en términos generales un proceso de selección en la industria. Qué etapas tiene y en qué consiste cada una.
+- [ ] Entiendo qué es y para qué sirve mi CV en el contexto de un proceso de búsqueda de trabajo en la industria tech.
+- [ ] Entiendo qué es y para qué sirve mi perfil de LinkedIn en este contexto.
+- [ ] Entiendo qué es y para qué sirve mi perfil de Github en este contexto.
+- [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
+- [ ] Identifico las habilidades técnicas que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
+
 ## Mentorías durante el proyecto
 
 La participación de personas voluntarias como tú en el proyecto de Job
@@ -119,10 +130,9 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-Pronto este [apartado]()
+**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/00-context/README.md#mentor%C3%ADas-t%C3%A9cnicas)
 podrás consultar los objetivos alcanzar con la
-simulación y revisión y feedback de su Github profile. Para este apartado
-todavía estamos terminando de definir algunos detalles.
+simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
