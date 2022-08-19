@@ -86,13 +86,13 @@ ellas y el equipo de Laboratoria.
 * 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
-* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
+* 2 sesiones de revisión y feedback de herramientas (1 sesión de revisión y 1 sesión de seguimiento al feedback)con la primera estudiante
  que te hayamos asignado como mentee. 
-  - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
-  el equipo de Laboratoria que se dividirá en 2 momentos:
+  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado por
+  el equipo de Laboratoria.
     * Dinámica para conocer a la estudiante que será tu mentee.
-    * Revisión y feedback de CV 
-  - Sesión 2: Revisión y feedback de LinkedIn y feedback. Espacio programado
+    * Revisión y feedback de CV + LinkedIn. 
+  - Sesión 2: Seguimiento a la incorporación de feedback. Espacio programado
   por la estudiante directamente con su mentora o mentor.
 * 1 simulación de entrevista de recursos humanos. Actividad programada por una
  estudiante distinta a quién acompañaste durante las sesiones de revisión de
@@ -107,10 +107,10 @@ podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Semana   | Día/hora |
-|-----------------------------------------------------|----------|----------|---------:|
+|-----------------------------------------------------|----------|----------|----------|
 | Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
-| Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
+| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
 | Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
 | Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
 | Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
