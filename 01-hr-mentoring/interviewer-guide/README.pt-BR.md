@@ -69,7 +69,7 @@ Durante as duas sessões, recomendamos:
 
 * Reservar espaços para perguntar à estudante sobre os motivos da estrutura e do conteúdo. Entendendo isso, você poderá fazer recomendações mais oportunas sem impor perspectivas.
 * Seja muito específica/o ao listar os elementos valiosos e as áreas de melhoria.
-* É muito importante que você foque no *porquê*, e não no *como*. 
+* É muito importante que você foque no **_porquê_**, e não no **_como_**. 
 * Não esqueça que será um processo de constante interação para que, mesmo quando as sessões terminarem, elas continuem melhorando.
 
 **Também listamos para você elementos que sugerimos que leve em consideração, pois serão incluídos neste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSckSiNkc1PAH1Oud9wGvUVKCrjndOK_sruwK13AVnJdXh4M9w/viewform) que você preencherá após as duas sessões de revisão.**
@@ -141,9 +141,9 @@ As perguntas a seguir são **apenas um exemplo** do que você pode incluir em ca
 
 * **Dúvidas sobre a empresa ou sobre a vaga** 
 
-Lembre-se que no final, a estudante irá pedir um feedback. Concentre-se em comportamentos que podem ser modificados. Por exemplo: “Quando você
+Lembre-se que no final, a estudante irá pedir um feedback. Concentre-se em comportamentos que podem ser modificados. Por exemplo: *“Quando você
 falou sobre a questão ‘X’, você se mostrou hesitante, e isso me fez pensar que você não tinha uma ideia tão clara. Sugiro que reflita sobre o
-ponto ‘X’ e prepare a resposta de forma mais estruturada”.
+ponto ‘X’ e prepare a resposta de forma mais estruturada”.*
 
 **Também listamos para você elementos que sugerimos que você leve em consideração, pois eles serão incluídos neste [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdmFDN6kXPrlzrSoACZ0plnYRFFj-z-7-elSKdgY-M_tGy6kg/viewform)que você preencherá após a simulação.**
 
@@ -159,8 +159,8 @@ ponto ‘X’ e prepare a resposta de forma mais estruturada”.
     carreira tecnológica.
 
 
-## Dudas o comentarios 
+## Dúvidas ou comentários 
 O espaço de perguntas e respostas agendado pela equipe será a oportunidade de tirar suas dúvidas sobre os aspectos a serem avaliados durante as
 sessões e as considerações mais relevantes para o feedback às estudantes. Se por algum motivo você não puder comparecer a essa sessão, você também
 pode entrar em contato com a pessoa da equipe com quem você manteve comunicação direta sobre sua participação no projeto através dos e-mails
-samanta.c@laboratoria.la e rosimary@laboratoria.la . Agradecemos por sua valiosa contribuição!
+*samanta.c@laboratoria.la* e *rosimary@laboratoria.la* . Agradecemos por sua valiosa contribuição!
