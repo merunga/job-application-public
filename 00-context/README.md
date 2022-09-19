@@ -1,122 +1,115 @@
-# Projeto Job Application
+# Proyecto Job Application
 
-## Contexto Laboratória e Bootcamp
+## Contexto Laboratoria y Bootcamp 
  
-Na Laboratória, trabalhamos para reverter as desigualdades que as mulheres
-enfrentam para ter acesso a empregos de qualidade no mercado digital da 
-América Latina.
+En Laboratoria trabajamos para revertir las desigualdades a las que se
+enfrentan las mujeres para acceder a empleos de calidad en la economía digital
+de Latinoamérica.
 
-Temos um bootcamp inovador, de classe mundial, com ótimos resultados em
-termos de aprendizado e colocação profissional, que está diminuindo a 
-lacuna de talentos e gênero no setor de tecnologia da América Latina.
+Tenemos un bootcamp innovador, de clase mundial y con grandes resultados a nivel
+de aprendizaje y colocación laboral, que está cerrando la brecha de talento y de
+género en el sector tech latinoamericano.
  
-A aprendizagem no bootcamp da Laboratória acontece de forma “não 
-tradicional”. Acreditamos em impactar a educação com uma aprendizagem 
-que motiva, empodera e transforma as pessoas. Preparamos [este vídeo](https://www.loom.com/share/a5cb311ea79e4cf1be64eda2dfe46001) para 
-compartilhar com você os princípios do nosso modelo de aprendizagem e 
-para que você possa conhecer um pouco mais sobre a experiência que as 
-estudantes vivenciam durante o bootcamp.
+El aprendizaje en el bootcamp de Laboratoria sucede de manera “no tradicional”.
+Creemos en impactar la educación con un aprendizaje que motiva, empodera y
+transforma a las personas. Para poder compartirte los principios de nuestro
+modelo de aprendizaje y que puedas conocer un poco más de la experiencia que
+ellas viven durante el bootcamp, hemos preparado
+[este video](https://www.loom.com/share/430829fb4e3949daa77824e6a75cbf4c).
 
-O foco central do nosso programa educacional é um catálogo de projetos de 
-complexidade crescente associados a objetivos específicos de 
-aprendizagem. Tanto o percurso dos projetos escolhidos como a duração e 
-abrangência de cada um deles dependerá das necessidades, interesses e 
-ritmo de aprendizagem de cada estudante. Isso significa que não se espera 
-que todas façam os mesmos projetos ou o mesmo número de projetos. O que
-esperamos é que pelo menos um projeto de cada um dos níveis 0 a 4 seja 
-concluído, tendo cumprido a maioria dos objetivos de aprendizagem 
-correspondentes. Você pode revisar o programa de desenvolvimento web 
-neste [link](https://curriculum.laboratoria.la/pt/js). 
+El foco central de nuestra currícula es un catálogo de proyectos de complejidad
+gradualmente creciente, y asociados a objetivos de aprendizaje concretos. Tanto
+la ruta de proyectos elegida como la duración y alcance de cada uno, dependerá
+de las necesidades, intereses y ritmo de aprendizaje de cada estudiante. Esto
+significa que no se espera que todas hagan los mismos proyectos, ni la misma
+cantidad de proyectos. Eso sí, se espera que se complete por lo menos un
+proyecto de cada uno de los niveles 0 al 4, habiendo cumplido con la mayoría de
+objetivos de aprendizaje correspondientes. Puedes revisar la currícula de
+desarrollo web en este [link](https://curriculum.laboratoria.la/es/js). 
 
-## Prefácio do projeto
+## Preámbulo del proyecto
 
-As estudantes da Laboratória decidiram iniciar suas carreiras em tecnologia
-como desenvolvedoras web. Embora o objetivo do Bootcamp seja 
-prepará-las para o trabalho, para conseguir o primeiro emprego não basta 
-apenas desenvolver projetos de programação enquanto ganham habilidades 
-técnicas e de vida. 
+Las estudiantes de Laboratoria decidieron iniciar su carrera en tecnología
+como desarrolladoras web. Si bien el objetivo del Bootcamp es que se preparen
+para trabajar, no es suficiente con sólo desarrollar proyectos de código a
+medida que adquieren habilidades técnicas y de vida, para que puedan conseguir
+su primer trabajo.
  
-Este projeto denominado Job Application tem como objetivo proporcionar às
-estudantes uma experiência prática que lhes permita preparar-se para os
-futuros processos seletivos em que irão participar.
+Este proyecto llamado Job Application tiene como objetivo que las estudiantes
+vivan una experiencia práctica que les permita prepararse para los futuros
+procesos de selección en los que participarán.
 
-Esses processos são tão diversos quanto as empresas que oferecem as
-vagas. É por isso que tentamos projetar uma experiência representativa da
-indústria, com base no que aprendemos acompanhando as mais de 2.400
-graduadas da Laboratória. Sua participação é fundamental porque lhes
-permitirá ter uma experiência inicial da procura de um emprego, que nos
-esforçaremos para que seja o mais real possível.
+Estos procesos son tan diversos como las empresas a las que podrían aplicar. Es
+por esto que hemos intentado diseñar una experiencia representativa de la
+industria, basada en lo que hemos aprendido acompañando a las más de 2,400
+egresadas de Laboratoria. Tú participación es clave porque les permitirá tener
+un acercamiento inicial a la búsqueda de empleo, que intentaremos sea lo más
+real posible.
 
 
-## Mentorias durante o projeto
+## Mentorías durante el proyecto
 
-A participação de voluntários como você no projeto Job Application se dará
-por meio de mentorias e entrevistas de simulação, que permitirão que as
-estudantes tenham uma experiência que as prepare para que, quando chegar
-a hora, estejam prontas para buscar seu primeiro emprego em tecnologia.
+La participación de personas voluntarias como tú en el proyecto de Job
+Application, sucederá a través de mentorías y entrevistas de simulación que
+permitirá a las estudiantes tener una experiencia que las prepare para que
+llegado el momento, estén listas para la búsqueda de su primer empleo en
+tecnología.
  
-As atividades serão divididas em sessões de revisão e feedback de suas
-ferramentas de perfil profissional (CV, LinkedIn e Perfil Github) e simulações
-de entrevistas de recursos humanos e entrevistas técnicas.
+Las actividades estarán divididas en sesiones de revisión y feedback de sus
+herramientas de perfil profesional (CV, LinkedIn y Github Profile) y en
+simulaciones de entrevistas de recursos humanos y entrevistas técnicas.
+## La dinámica de las mentorías y simulaciones
 
-## A dinâmica das mentorias e simulações
+Si bien algunas actividades serán agendadas entre mentora o mentor y su mentee,
+todas sucederán en el marco de tiempo establecido por Laboratoria para poder así
+alcanzar los objetivos generales del proyecto. Las fechas exactas las conocerás
+en una sesión que describimos más adelante o podrás escribir un correo
+electrónico a la persona de contacto de Laboratoria que te hizo llegar la
+invitación.
 
-Embora algumas atividades sejam agendadas entre a mentora ou mentor e
-sua mentorada, todas elas ocorrerão dentro do prazo estabelecido pela
-Laboratória para atingir os objetivos gerais do projeto. Você saberá as datas
-exatas em uma sessão que descrevemos mais tarde, ou pode escrever um
-e-mail para a pessoa de contato da Laboratória que lhe enviou o convite.
+## Mentorías de Recursos Humanos
 
-## Mentorias de Recursos Humanos
+Quiénes participen de las **mentorías y simulaciones de entrevistas de recursos
+humanos**, invertirán alrededor de _5 y 6 horas en total_ para gestionar y
+realizar sesiones con las estudiantes, así como para documentar feedback para
+ellas y el equipo de Laboratoria.
 
-Quem participa das **mentorias e simulações de entrevistas de recurso
-humanos** investirá cerca de 5 a 6 horas no total para gerenciar e realizar 
-sessões com as estudantes, bem como documentar feedback para elas e 
-para a equipe da Laboratória.
+* 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
+ Laboratoria para resolver sus dudas sobre la dinámica y en la que no
+ participarán aún las estudiantes.
+* 2 sesiones de revisión y feedback de herramientas con la primera estudiante que te hayamos asignado como mentee. (1 sesión de revisión y 1 sesión de seguimiento al feedback) 
+  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado por
+  el equipo de Laboratoria.
+  - Sesión 2: Seguimiento a la incorporación de feedback. Espacio programado
+  por la estudiante directamente con su mentora/or.
+* 1 simulación de entrevista de recursos humanos con la segunda estudiante que te hayamos asignado como mentee. Actividad programada por la
+ estudiante. La coordinación de la sesión será a través de un correo en el que
+ manifiesta su interés por aplicar a la vacante, como sucede en algunos
+ procesos de reclutamiento abiertos.
 
-* 1 sessão de perguntas e respostas sobre o programa. Espaço programado
- pela equipe da Laboratória para tirar suas dúvidas sobre a dinâmica, do qual
- as estudantes ainda não participarão.
-* 2 sessões de revisão e feedback de ferramentas com a primeira estudante
-designada a você como mentorada. (1 sessão de revisão e 1 sessão de acompanhamento de feedback)
+**En este [apartado](../01-hr-mentoring/interviewer-guide/README.md)
+podrás consultar los objetivos a alcanzar con la
+revisión y feedback de herramientas y con la simulación.**
 
-  - Sessão 1: Revisão e feedback do CV + LinkedIn. Espaço agendado 
-  pela equipe da Laboratória.
-  - Sessão 2: Acompanhamento da incorporação do feedback. Espaço
-  agendado pela estudante diretamente com seu/sua mentor/a.
+|                    Actividades                      |   Tipo   | Semana   | Día/hora |
+|-----------------------------------------------------|----------|----------|----------|
+| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
+| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
+| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
 
-* 1 entrevista simulada de recursos humanos com sua segunda estudante
- mentorada. Atividade agendada pela estudante. A coordenação da sessão 
- será através de um e-mail em que a estudante manifesta seu interesse em 
- candidatar-se à vaga, assim como acontece em alguns processos de
- recrutamento abertos.
+### Objetivos de aprendizaje
 
+Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de aprendizaje que permiten a las estudiantes enfocar sus esfuerzos y  reflexionar sobre lo logrado. Con tu participación en las mentorías de recursos humanos, ayudarás a las estudiantes a alcanzar los siguientes:
 
-**Nesta [seção]([../01-hr-mentoring/interviewer-guide/README.md](https://github.com/merunga/job-application-public/blob/translation-pt/01-hr-mentoring/interviewer-guide/README.md))
-você poderá consultar os objetivos a serem alcançados com a 
-revisão e feedback das ferramentas com a simulação.**
+- [ ] Entiendo cómo se vive en términos generales un proceso de selección en la industria. Qué etapas tiene y en qué consiste cada una.
+- [ ] Entiendo qué es y para qué sirve mi CV en el contexto de un proceso de búsqueda de trabajo en la industria tech.
+- [ ] Entiendo qué es y para qué sirve mi perfil de LinkedIn en este contexto.
+- [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
 
-|                    Atividades                        |   Tipo   | Semana        | Dia/hora           |
-|----------------------------------------------------- |----------|---------------|--------------------|
-| Sessão de perguntas e respostas sobre o programa.    |   Fixa   |               |  05/10 às 18h00    |
-| Sessão de revisão e feedback de CV + LinkedIn.       |   Fixa   |               |  13/10 às 18h00    |
-| Sessão de acompanhamento do feedback.                | Aberta   |  17 a 20/10   |                    |
-| Enviar formulário de avaliação e feedback CV/LinkedIn| Aberta   |  24 a 28/10   |                    |
-| Simulação de entrevista de recursos humanos.         | Aberta   |  31/10 a 11/11|                    |         
-| Enviar formulário de avaliação e feedback entrevista.| Aberta   |  14 a 18/11   |                    |
-
-### Objetivos de aprendizagem
-
-Todos os projetos da Laboratória estão associados a um conjunto de objetivos de aprendizagem que permite às estudantes concentrar seus 
-esforços e refletir sobre o que foi alcançado. Com sua participação nas mentorias de recursos humanos, você ajudará as estudantes a alcançarem 
-as metas a seguir:
-
-- [ ] Entendo como é a vivência de um processo seletivo em termos gerais na indústria, que fases tem e em que consiste cada uma.
-- [ ] Compreendo o que é o meu CV e para que serve no contexto de um processo de busca de emprego na indústria tecnológica.
-- [ ] Compreendo o que é o meu perfil do LinkedIn e para que serve neste contexto.
-- [ ] Identifico as life skills que são meus pontos fortes e as áreas de melhoria para a minha participação em processos seletivos no setor.
-
-## Mentorías Técnicas (*em processo de tradução para português*)
+## Mentorías Técnicas 
 
 Quiénes participen de las **simulaciones de entrevistas técnicas y de la
 revisión y feedback de su Github profile**, invertirán alrededor de _2 y 3 horas
@@ -150,10 +143,15 @@ Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de a
 - [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
 - [ ] Identifico las habilidades técnicas que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
 
-## Considerações Gerais
+## Consideraciones generales
 
-* Este é um projeto individual que as estudantes avançarão em paralelo aos demais projetos do Bootcamp.
-* Este projeto, diferente dos demais desenvolvidos durante o bootcamp, terá etapas e um calendário com algumas datas pré-estabelecidas para as
-estudantes. No que se assemelha é que as estudantes terão uma série de materiais que poderão consultar como guia e que continuarão a ter o apoio
-da equipe através de reuniões e feedback ao longo do andamento do projeto.
-* É o único projeto em que elas possuem um vínculo com pessoas externas que aderem ao bootcamp para apoiar seu aprendizado no projeto.
+* Este es un proyecto individual que las estudiantes irán avanzando en paralelo
+ a los otros proyectos del Bootcamp. 
+* Este proyecto a diferencia de los otros que desarrollan durante el bootcamp,
+ tendrá para las estudiantes etapas y un calendario con algunas fechas pre
+ establecidas. En lo que se parecen es que las estudiantes contarán con una
+ serie de recursos que podrán consultar como guía y que seguirán contando con
+ el acompañamiento del equipo a través de ayudantías y feedback a lo largo del
+ avance del proyecto. 
+* Es el único proyecto en el que tienen vínculo con personas externas que se
+ unen al bootcamp para apoyar tu aprendizaje en el proyecto. 
