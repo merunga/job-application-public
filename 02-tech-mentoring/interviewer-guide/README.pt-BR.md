@@ -16,7 +16,7 @@ A ideia é simular um cenário de entrevista com nossas estudantes. Sabemos que 
 simular um cenário "crítico", que elas podem encontrar na vida real.
 
 Você vai atuar no papel de entrevistadora/or, fazendo as perguntas/desafios no decorrer da dinâmica. Ao final da entrevista, você deve enviar o
-feedback por e-mail para as estudantes sobre seu desempenho e preencher um [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) com a avaliação da entrevista, que só será visto pela equipe
+feedback por e-mail para as estudantes sobre seu desempenho e preencher um [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSejGtGfiwu1_-H2TsBDk7ud6LJFIUTONwh62YjKeaQHta24Iw/viewform?usp=send_form) com a avaliação da entrevista, que só será visto pela equipe
 da Laboratória.
 
 O roteiro de perguntas propostas que oferecemos aqui é apenas uma base. Você pode adaptá-lo e aplicá-lo como julgar necessário.
