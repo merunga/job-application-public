@@ -1,227 +1,178 @@
-# Guía para Entrevistadores
+# Guia para entrevistadores
 
-## Antes de comenzar
+## Antes de começar
 
-A continuación, hemos elaborado una pequeña guía para las entrevistas, así como
-algunas preguntas teóricas y prácticas para que te sirvan de base. Recuerda que
-puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
-mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
-contestando.
+A seguir, elaboramos um pequeno guia para as entrevistas, além de algumas perguntas teóricas e práticas que podem lhe servir de base. Lembre-se
+que você pode adaptar e concentrar-se nas perguntas que quiser, mas tente sempre manter-se no currículo do bootcamp para que elas se sintam
+confortáveis em responder.
 
-Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
-más para todas las estudiantes. ¡Es un paso extremadamente esencial en este
-viaje y una experiencia que cambia la vida! 💛
+Agradecemos por todo o seu apoio e ajuda. Ele significa muito para nós e mais ainda para todas as estudantes. Trata-se de um passo absolutamente
+essencial nesta jornada, e de uma experiência que pode mudar a vida delas! 💛
 
-## Sobre la dinámica
 
-La idea es simular un escenario de entrevista con nuestras estudiantes. Sabemos
-que las entrevistas técnicas suelen ser las más estresantes, así que la idea es
-simular un escenario _"crítico"_ que puedan encontrar en la vida real.
+## Sobre a dinâmica
 
-Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
-a lo largo de la dinámica. Al final de la entrevista es necesario que envies
-_feedback por correo electrónico_ a las estudiantes sobre su desempeño y llenar
-un [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) con la
-evaluación de la entrevista que solo revisará el equipo de Laboratoria.
+A ideia é simular um cenário de entrevista com nossas estudantes. Sabemos que as entrevistas técnicas são as mais estressantes, por isso a ideia é
+simular um cenário "crítico", que elas podem encontrar na vida real.
 
-Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
-adaptarlo y aplicarlo como creas conveniente.
+Você vai atuar no papel de entrevistadora/or, fazendo as perguntas/desafios no decorrer da dinâmica. Ao final da entrevista, você deve enviar o
+feedback por e-mail para as estudantes sobre seu desempenho e preencher um [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) com a avaliação da entrevista, que só será visto pela equipe
+da Laboratória.
 
-Imaginamos que cada entrevista debería durar entre **30~60min**.
+O roteiro de perguntas propostas que oferecemos aqui é apenas uma base. Você pode adaptá-lo e aplicá-lo como julgar necessário.
+
+Imaginamos que **cada entrevista deve durar entre 30 e 60 minutos.**
+
 
 ## Objetivo
 
-Esta dinámica tiene 2 objetivos principales:
-* El primero, como comentábamos al principio, es que las estudiantes tengan la
-  posibilidad de tener **una experiencia de postulación** lo más parecida a una
-  real, dentro del marco del Bootcamp.
-* El segundo es conocer tu perspectiva sobre el **potencial de la candidata**,
-  en particular alrededor de estos tres puntos:
-  - Conocimiento/entendimiento del desarrollo de software, en particular
-    Javascript.
-  - Estrategias de análisis y solución de problemas. ¿Cómo se enfrentó al/los
-    ejercicio/s?
-  - Comunicación. La claridad para explicar su estrategia, el uso de términos
-    técnicos, experiencia y propuesta de solución.
+Esta dinâmica tem 2 objetivos principais:
 
-## La dinámica
+* Como dito anteriormente, o primeiro é que as estudantes tenham a possibilidade de ter uma **experiência de candidatura** o mais parecida possível
+com uma experiência real, dentro da estrutura do Bootcamp.
+* O segundo é saber sua visão sobre o **potencial da candidata**, especificamente quanto aos três pontos a seguir:
+  - Conhecimento/entendimento do desenvolvimento de software, especialmente Javascript.
+  - Estratégias de análise e solução de problemas. Como ela enfrentou o(s) exercício(s)?
+  - Comunicação. Clareza na explicação de sua estratégia, uso de termos técnicos, experiência e proposta de solução.
 
-La vacante a la que la estudiante estarán aspirando es la que encuentras en este [link](https://docs.google.com/document/d/1AQMpRAisd8X1raxhYzW7mviCB1sN42Okg32_ewfgTDI/edit). Es importante que tengas encuenta lo que se describe para la simulación. ¡No te olvides que están en su proceso de aprendizaje aún!
+## A dinámica
 
-Conviene además recordar que todas las estudiantes tienen un bagaje muy diferente antes
-de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
-totalmente diferentes y siempre vale la pena iniciar una conversación distendida
-para _"romper el hielo"_ y que se sientan más cómodas.
+Neste [link](https://docs.google.com/document/d/1o7zjuSKyZKKev54tmro1JOztoDa2aj1E/edit?rtpof=true) você encontrará a vaga para a qual a estudante
+está se candidatando. É importante que você leve em consideração o que está descrito para a simulação.
 
-Puedes preguntarles sobre su trayectoria, los proyectos que ya han desarrollado
-y lo que han aprendido hasta ahora. También es interesante terminar la dinámica
-preguntando si la "postulante" tiene alguna duda sobre el mercado (ya que es
-algo muy nuevo para ella) y hacerla sentir bienvenida durante la dinámica.
+Convém lembrar que todas as estudantes têm uma bagagem muito diferente antes de sua entrada na Laboratória. A maioria delas tem experiência em
+contextos totalmente diferentes, e sempre vale a pena ter uma conversa descontraída para *"quebrar o gelo"* e deixá-las mais à vontade.
 
-El espacio de simulación de la entrevista es totalmente abierto. Queremos que la
-experiencia sea disfrutable, tanto para tí como para ellas.
+Você pode perguntar-lhes sobre sua trajetória, os projetos que desenvolveram e o que aprenderam até o momento. Também é interessante terminar a
+dinâmica perguntando se a "candidata" tem alguma dúvida sobre o mercado (já que é muito novo para ela) e fazer com que ela se sinta acolhida
+durante a dinâmica.
 
-De todas maneras te dejamos una guía con las etapas que recomendamos:
+O espaço de simulação da entrevista é totalmente aberto. Queremos que a experiência seja agradável, tanto para você quanto para elas.
+
+De toda forma, oferecemos um guia com as etapas recomendadas:
 
 - **Contexto**
 
-  Antes de ponerte en modo entrevistadorx es importante recordarle a la
-  estudiante que esta es una entrevista de práctica, es sobre todo para
-  identificar qué haría en una entrevisa real, cómo se comportaría si se pone
-  nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
+  Antes de entrar no modo entrevistadora/or, é importante lembrar a estudante de que se trata de uma prática de entrevista, especialmente para
+  identificar o que ela faria em uma entrevista real, como se comportaria se ficasse nervosa, ou que recursos ela pode usar para controlar ou
+  administrar tais situações.
+
 
 - **Intro**
 
-  Aquí ya comienza la entrevista y lo primero es dejarle claro a la candidata
-  cuál será la estrucutura de este espacio, por ejemplo:
+  Aqui começa a entrevista e a primeira coisa a fazer é deixar clara para a candidata a estrutura dessa dinâmica; por exemplo:
   
-  > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
-  un poco sobre tí y por qué estás postulando a este puesto, luego te haré una
-  serie de preguntas conceptuales, y por último resolveremos 1 o 2 ejercicios de
-  código"_.
+  > _"Vou lhe falar sobre o processo: no início lhe pedirei que se apresente, me fale um pouco sobre você e por que está se candidatando a este cargo, depois lhe farei uma série de perguntas conceituais, e finalmente resolveremos 1 ou 2 exercícios de programação".
 
-- **Presentación**
+- **Apresentação**
 
-  En este punto, ya en modo entrevistadorx, te presentas y la invitas a ella a
-  que se presente. El foco aquí es que su presentación sea breve, clara y aporte
-  al puesto al que postula, por lo que siéntete en libertad de hacerle las
-  preguntas que consideres relevantes.
+  Neste ponto, já no modo entrevistadora/or, você se apresenta e a convida a se apresentar. O foco é que a apresentação seja breve, clara e
+  relevante para a posição à qual está se candidatando, portanto, sinta-se à vontade para fazer quaisquer perguntas que você considere relevantes.
 
-- **Preguntas Conceptuales**
+- **Perguntas conceituais**
 
-  El objetivo de este espacio es validar el nivel de entendimiento de ciertos
-  conceptos por parte de la estudiante, asi cómo su capacidad de expresión
-  usando términos técnicos.
+  O objetivo desta etapa é validar o nível de compreensão de certos conceitos pela estudante, assim como sua capacidade de se expressar usando
+  termos técnicos.
 
-  Este es un buen punto para identificar el nivel de confianza con la que llega
-  la candidata y te puede ayudar a decidir la dificultad y tipo de
-  ejercicio que quieres proponerle.
+  Este é um bom ponto para identificar o nível de confiança da candidata ao chegar e pode ajudar você a decidir a dificuldade e o tipo de
+  exercício que você quer propor a ela.
   
-  Al momento de hacer las preguntas, recuerda vocalizar los términos con
-  claridad, y si es necesario compartir tu pantalla con la pregunta, para que
-  quede claro el término por el cual se le está preguntando.
+  Quando fizer perguntas, lembre-se de articular os termos claramente e, se necessário, compartilhar sua tela com a pergunta, para que fique claro
+  a qual termo se refere.
 
-  Aquí puedes encontrar una lista de [preguntas conceptuales](./questions.md)
-  que puedes usar. Te recomendamos estar familiarizadx con ellas antes de las
-  entrevistas.
+  Aqui está uma lista de [perguntas conceituais](./questions.pt-BR.md) que você pode usar. Recomendamos que você esteja familiarizada/o com elas
+  antes das entrevistas.
 
-- **Ejercicios**
+- **Exercícios**
 
-  El objetivo de esta etapa es ver cómo se enfrenta la estudiante a la
-  resolución en tiempo real de un ejercicio de código: si plantea su
-  razonamiento de forma clara, si hace preguntas en relación al enunciado para
-  terminar de entenderlo, si se lanza a codear de frente sin ninguna estrategia,
-  etc.
+  O objetivo desta etapa é ver como a estudante lida com a resolução de um exercício de código em tempo real: se ela coloca seu raciocínio
+  claramente, se faz perguntas em relação ao enunciado a fim de compreendê-lo totalmente, se vai direto para a programação sem qualquer
+  estratégia, etc.
 
-  La recomendación es comenzar con algún ejercicio rápido y fácil para darte una
-  idea del nivel de la estudiante, y de ahí pasar a un segundo ejercicio que
-  represente un desafío mayor.
+  A recomendação é começar com um exercício rápido e fácil para ter uma ideia do nível da estudante, e depois passar para um segundo exercício que
+  represente um desafio maior.
   
-  Aquí puedes encontrar un [resumen de algunos
-  ejercicios](../exercises/README.md) que puedes usar. Es importante que,
-  dependiendo de tus primeras impresiones, intentes elegir ejercicios relevantes
-  para el perfil, por lo cual te recomendamos familiarizarte con ellos antes de
-  la entrevista.
+  Aqui você pode encontrar um resumo com alguns [exercícios](../exercises/README.pt-BR.md) que você pode usar. É importante que, dependendo de suas
+  primeiras impressões, você tente escolher exercícios relevantes para o perfil, por isso recomendamos que você se familiarize com eles antes da
+  entrevista.
   
-  Puntos importantes a tener en cuenta:
-  - Dependiendo del desempeño en el primer ejercicio, evalúa si realmente tiene
-    sentido hacer un segundo: pueden haber casos en que la estudiante se
-    bloquea, o no cuenta con las capacidades para resolver inclusive ejercicios
-    muy fáciles. En estos escenarios otro ejercicio puede solamente empeorar la
-    experiencia.
-  - Quizás sea importante que le recuerdes el tiempo que le queda para que lo
-    tenga presente.
-  - Si percibes que la estudiante no ha terminado de entender el enunciado, o lo
-    ha entendido mal, quizás la puedes ayudar con algunas preguntas o nuevos
-    casos de tests para que ajuste de manera temprana su solución.
-  - Recuerda que estamos "simulando" una entrevista real, por más que te mueras
-    de ganas, intenta no brindarle _demasiada_ ayuda.
-  - Ten en cuenta que estas entrevistas no son un _memory contest_, y que es
-    totalmente válido si la estudiante acude a Google en busca de ayuda, sobre
-    todo si es documentación o foros. Observar claramente qué busca, nos sirve
-    para evaluar cómo investiga.
-  - Si eliges ejercicios distintos a los propuestos, asergúrate que tengan
-    dificultades, topics y duración similares.
+  Pontos importantes a ter em mente:
+  - Dependendo do desempenho no primeiro exercício, avalie se realmente faz sentido fazer um segundo exercício: pode haver casos em que a
+  estudante está bloqueada, ou não tem as habilidades para resolver mesmo exercícios muito fáceis. Nesses cenários, um outro exercício pode apenas
+  piorar a experiência.
+  - Talvez seja importante lembrá-la do tempo que lhe resta, para que ela tenha consciência disso.
+  - Se você perceber que a estudante não entendeu bem o enunciado, ou entendeu errado, talvez você possa ajudá-la com algumas perguntas ou novos
+  - casos de teste para que ela possa ajustar sua solução a tempo.
+  - Lembre-se que estamos "simulando" uma entrevista real, portanto tente não _ajudar demais_, mesmo que sinta vontade.
+  - Tenha em mente que as entrevistas não são um _concurso de memória_, e que é totalmente válido se a estudante recorrer ao Google para obter
+  ajuda, especialmente se for documentação ou fóruns. Observar claramente o que ela está procurando nos ajuda a avaliar de que forma ela faz sua
+  pesquisa.
+  - Se você escolher exercícios diferentes dos propostos, sua dificuldade, tópicos e duração devem ser semelhantes.
 
-- **Cierre**
+- **Encerramento**
 
-  Aquí llega la entrevista a su fin, recuerda agradecerle por su tiempo y
-  recordarle que dentro de un plazo no mayor a 2 días, le harás llegar por
-  escrito a su correo el feedback de la entrevista. Recuerda copiar en este
-  correo al equipo de Laboratoria.
+  Aqui a entrevista chega ao fim. Lembre-se de agradecer a estudante pelo seu tempo e lembrá-la de que, em até 2 dias, ela receberá por e-mail o
+  feedback da entrevista. Lembre-se de copiar a equipe da Laboratória nesse e-mail.
 
-- **Salida** (opcional)
 
-  Aquí ya fuera de tu rol de entrevistadorx, puedes aprovechar para darle
-  feedback general sobre su desempeño o los puntos que consideres más
-  relevantes, así como levantar sus percepciones y sensaciones de lo que acaba
-  de suceder. Ten en cuenta que esta etapa **no reemplaza** al feedback por
-  escrito que enviarás a su correo.
+-**Saída (opcional)**
+
+  Aqui, já fora do seu papel de entrevistadora/or, você pode aproveitar para oferecer feedback geral sobre seu desempenho ou os pontos que você
+  considerar mais relevantes, bem como levantar suas percepções e sensações sobre o que acaba de acontecer. Tenha em mente que **esta etapa não
+  substitui o feedback por escrito que você enviará a ela por e-mail.**
+
 
 ## Feedback
 
-Habrán 2 tipos de feedback que te pediremos al final de la dinámica, idealmente
-1 a 2 días después de la simulación:
+Pediremos a você 2 tipos de feedback ao final da dinâmica, idealmente entre 1 e 2 dias depois da simulação:
 
-1)**Feedback hacia la estudiante** que enviarás por correo con algunos aspectos
-en concreto que te recomendamos:
+1)**Feedback para a estudante** que você enviará por e-mail com alguns aspectos específicos que lhe recomendamos:
 
-Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
-sobre cada bloque. Es muy importante que en cada sección refuerces tanto los
-**aspectos positivos** como aquellos que **necesitan mejorarse**.
+Seguindo a estrutura do scorecard, tome um tempo para dar o seu feedback sobre cada bloco. É muito importante que em cada seção você reforce tanto
+os **aspectos positivos** quanto os que **precisam de melhorias.**
 
-Además, sería valioso que puedas darle tu apreciación sobre sus respuestas de la
-forma más objetiva posible, comunicándole el impacto que tiene dicho concepto o
-skill en su perfil o la importancia del mismo para su desempeño como Frontend
-Developer. 
+Além disso, seria valioso se você pudesse oferecer feedback sobre suas respostas da maneira mais objetiva possível, comunicando o impacto que o
+conceito ou a habilidade tem sobre seu perfil, ou a importância deles para seu desempenho como Frontend Developer.
 
-En caso existan aspectos que necesite reforzar, intenta colocar referencias a
-recursos relevantes a los que pueda sacarle valor rápidamente.
+Caso existam aspectos que precisam ser reforçados, tente colocar referências para recursos relevantes dos quais ela possa extrair valor
+rapidamente.
 
-#### Profesionalismo
-- ¿Se mostró predispuesta y proactiva para la coordinación de la entrevista?
-- ¿Llegó puntual?
 
-#### Presentación
-- ¿Cómo calificas las presentación que hizo de sí misma?
+#### Profissionalismo
+- Ela se mostrou disposta e proativa para marcar a entrevista?
+- Foi pontual?
 
-#### Preguntas conceptuales
-- ¿Cómo calificas sus respuestas a las preguntas conceptuales?
 
-#### Ejercicios prácticos
-- ¿Completó el 1er ejercicio?
-- ¿Completó el 2ndo ejercicio?
-- ¿Compartió su razonamiento y estrategias de solución de forma asertiva?
+#### Apresentação
+- Como você qualifica a apresentação que ela fez?
 
-#### Perfil de Github
-- ¿Cómo calificas su perfil de Github?
-- ¿Cómo podría mejorarlo?
+#### Perguntas conceituais
+- Como você qualifica suas respostas às perguntas conceituais?
 
-Y por último compartirle si es que detectaste en su actitud algo notable o algo
-por trabajar (seguridad, nervios, fluidez en sus ideas, etc.), recomendar
-algunas cosas, pero también mencionar que esto es algo normal. Incluso si
-quieres empatizar y mencionar lo que te ha ocurrido a ti y cómo lo trabajaste,
-sería genial.
+#### Exercícios práticos
+- Concluiu o 1.º exercício?
+- Concluiu o 2.º exercício?
+- Compartilhou seu raciocínio e estratégias de solução de forma assertiva?
 
-Vale la pena mantener siempre **un tono positivo** en la retroalimentación y
-tratar de proporcionar **información concreta** y, si es posible, **enlaces,
-recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
-en los puntos que podría mejorar.
+#### Perfil no Github
+- Como você qualifica seu perfil no Github?
+- Como poderia melhorá-lo?
 
-2)**Feedback hacia el equipo**, el que realizarás a través de un 
-[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) que te pedirá evaluar
-su desempeño en los distintos aspectos que integran la simulación y dejarnos
-recomendaciones para el equipo.
+Por fim, compartilhe se você detectou em sua atitude algo notável ou algo para trabalhar (confiança, nervosismo, fluência em suas ideias, etc.),
+recomende algumas coisas, mas também mencione que isto é normal. Inclusive, se você quiser estabelecer empatia e contar algo que aconteceu com
+você e como você trabalhou isso, seria ótimo.
 
-## Fin
+Vale a pena manter sempre um tom positivo no feedback e fornecer informações concretas e, se possível, links, recursos e/ou conteúdos se você
+achar que a estudante deve se concentrar nos pontos em que pode melhorar.
 
-Gracias por participar de la preparación de mujeres que sueñan con un futuro
-mejor y con comenzar una carrera transformadora en tecnología.
+2) **Feedback para a equipe**, que você fará através de um [_score card_](https://docs.google.com/forms/d/e/1FAIpQLSejGtGfiwu1_-H2TsBDk7ud6LJFIUTONwh62YjKeaQHta24Iw/viewform) que pedirá para que você avalie seu desempenho nos diferentes aspectos que compõem a
+simulação e deixe recomendações para a equipe.
 
-Esta etapa del Bootcamp es extremadamente importante para las estudiantes y el
-impacto que personas como tú tienen en su  crecimiento profesional es enorme.
 
-Si tienes **alguna pregunta**, por favor, no dudes en ponerte en contacto con el
-equipo.
+## Fim
 
-**De parte de Laboratoria, nuestro más sincero agradecimiento 💛**.
+Agradecemos pela sua participação na preparação das mulheres que sonham com um futuro melhor começando uma carreira transformadora na tecnologia.
+Esta etapa do Bootcamp é extremamente importante para as estudantes, e o impacto de pessoas como você em seu crescimento profissional é enorme.
+Se você tiver quaisquer perguntas, por favor, não hesite em entrar em contato com a equipe.
+
+**Em nome da Laboratória, nosso mais sincero agradecimento 💛.**
