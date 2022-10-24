@@ -116,39 +116,36 @@ as metas a seguir:
 - [ ] Compreendo o que é o meu perfil do LinkedIn e para que serve neste contexto.
 - [ ] Identifico as life skills que são meus pontos fortes e as áreas de melhoria para a minha participação em processos seletivos no setor.
 
-## Mentorías Técnicas (*em processo de tradução para português*)
+## Mentorias Técnicas
 
-Quiénes participen de las **simulaciones de entrevistas técnicas y de la
-revisión y feedback de su Github profile**, invertirán alrededor de _2 y 3 horas
-en total_ para gestionar y realizar sesiones con las estudiantes, así como para
-documentar feedback para ellas y el equipo de Laboratoria. 
+Quem participa das **simulações de entrevistas técnicas e da revisão e feedback do perfil no Github** investirá cerca de 2 a 3 horas no total para
+gerenciar e realizar sessões com as estudantes, bem como documentar feedback para elas e para a equipe da Laboratória.
 
-* 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
- Laboratoria para resolver sus dudas sobre la dinámica y en la que no
- participarán aún las estudiantes.
-* 1 simulación de entrevista técnica. Actividad programada por la estudiante a través de un correo que simulará su interés
- por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
- abiertos.
 
-**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/00-context/README.md#mentor%C3%ADas-t%C3%A9cnicas)
-podrás consultar los objetivos alcanzar con la
-simulación y revisión y feedback de su Github profile.**
+* 1 sessão de perguntas e respostas sobre o programa. Espaço programado pela equipe da Laboratória para tirar suas dúvidas sobre a dinâmica, do qual as estudantes ainda não participarão.
+* 1 simulação de entrevista técnica. Atividade programada pela(s) estudante(s) (conforme o caso) através de um e-mail que simula seu interesse em candidatar-se à vaga, assim como acontece em alguns processos de recrutamento abertos.
 
-|                 Actividades                  |   Tipo   | Semana   | Día/hora |
-|----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+**Nesta [seção](../02-tech-mentoring/interviewer-guide/README.pt-BR.md), você poderá
+consultar os objetivos a serem alcançados com a simulação, revisão e feedback do seu perfil no Github.**
 
-### Objetivos de aprendizaje
+|                 Atividades                       |   Tipo   | Semana   | Dia/hora |
+|--------------------------------------------------|----------|----------|----------|
+| Sessão de perguntas e respostas sobre o programa.|   Fixa   |          |          |
+| Simulação de entrevista técnica.                 |  Aberta  |          |          |
+| Enviar formulário de avaliação e feedback.       |  Aberta  |          |          |
 
-Todos los proyectos de Laboratoria están asociados a un grupo de objetivos de aprendizaje que permiten a las estudiantes enfocar sus esfuerzos y  reflexionar sobre lo logrado. Con tu participación en las mentorías técnicas, ayudarás a las estudiantes a alcanzar los siguientes:
+### Objetivos de aprendizagem
 
-- [ ] Entiendo cómo se vive en términos generales un proceso de selección en la industria. Qué etapas tiene y en qué consiste cada una.
-- [ ] Entiendo qué es y para qué sirve mi CV en el contexto de un proceso de búsqueda de trabajo en la industria tech.
-- [ ] Entiendo qué es y para qué sirve mi perfil de Github en este contexto.
-- [ ] Identifico las life skills que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
-- [ ] Identifico las habilidades técnicas que son fortalezas y áreas de mejora para mi participación en procesos de selección en la industria.
+Todos os projetos da Laboratória estão associados a um conjunto de objetivos de aprendizagem que permite às estudantes concentrar seus esforços e
+refletir sobre o que foi alcançado. Com sua participação nas mentorias técnicas, você ajudará as estudantes a alcançarem as metas a seguir:
+
+- [ ] Entendo como é a vivência de um processo seletivo em termos gerais na indústria, quais suas etapas e em que consiste cada uma.
+- [ ] Compreendo o que é o CV e para que serve no contexto de um processo de procura de emprego na indústria tech.
+- [ ] Entendo o que é meu perfil do Github e para que serve neste contexto.
+- [ ] Identifico as life skills que são meus pontos fortes e as áreas de melhoria para a minha participação em processos de seleção na indústria.
+- [ ] Identifico as competências técnicas que são meus pontos fortes e as áreas de melhoria para a minha participação em processos seletivos na
+indústria.
+
 
 ## Considerações Gerais
 
