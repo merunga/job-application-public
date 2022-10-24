@@ -2,145 +2,142 @@
 
 - [**Stringitis**](./01-stringitis)
 
-  Dificultad: `fácil` / Etiquetas: `String`
+  Dificuldade: `fácil` / Etiquetas: `String`
 
-  Implementa una función que tenga un comportamiento equivalente a
-  `String.prototype.contains`, pero sin usar métodos de `String`.
-  Alternativamente puedes proponer una solución que haga uso de `.slice`,
-  `.substring` o `.substr`.
+  Faça uma função que tenha um comportamento equivalente a `String.prototype.contains`, mas sem usar métodos de `String`. Alternativamente você pode
+  propor uma solução que faça o uso de `.slice`, `.substring` ou `.substr.`
+  
+  Esse exercício é usado frequentemente como exercício de _exemplo_ ou de _aquecimento._
 
-  Este ejercicio se usa muchas veces como ejercicio de _ejemplo_ o de
-  _calentamiento_.
 
-- [**Dos columnas**](./02-dos-columnas)
+- [**Duas colunas**](./02-dos-columnas)
 
-  Dificultad: `fácil` / Etiquetas: `HTML`, `CSS`, `media-queries`
+  Dificuldade: `fácil` / Etiquetas: `HTML`, `CSS`, `media-queries`
+  
+  Construa uma interface web (`HTML + CSS`) com um _layout_ de duas colunas
+  com tamanhos relativos e responsivo (em telas pequenas deve passar a ter uma coluna).
 
-  Construye una interfaz web (`HTML` + `CSS`) con un _layout_ de dos columnas
-  con tamaños relativos y responsive (en pantallas pequeñas debe pasar a una
-  columna).
 
-- [**Botones alerta**](./03-botones-alerta)
+- [**Botões de alerta**](./03-botones-alerta)
 
-  Dificultad: `fácil` / Etiquetas: `DOM`, `Event`, `Array`
+  Dificuldade: `fácil` / Etiquetas: `DOM`, `Event`, `Array`
+  
+  Construa uma UI (`HTML`, `CSS` e `JavaScript`) com botões e manipule os eventos
+  de click desses botões. Você também deve _relacionar_ os botões com os índices
+  de um array.
 
-  Construye una UI (`HTML`, `CSS` y `JavaScript`) con botones y maneja eventos
-  click de esos botones. También tienes que _relacionar_ los botones con los
-  índices de un arreglo.
+- [**Edição instantânea**](./04-edicion-instantanea)
+  
+  Dificuldade: `média` / Etiquetas: `DOM`, `Event`
 
-- [**Edición instantánea**](./04-edicion-instantanea)
+  Crie uma interface web com uma linha de texto que, ao ser clicada, permite ao 
+  usuário editá-la ali mesmo (de texto passa a ser <input>).
 
-  Dificultad: `media` / Etiquetas: `DOM`, `Event`
+- [**Maiores e menores**](./05-mayores-menores)
 
-  Crea una interfaz web con una línea de texto que, al hacerle clic, permita al
-  usuario editarla ahí mismo (de texto pasa a ser un `<input>`).
+  Dificuldade: `média` / Etiquetas: `Array`, `Logic`
 
-- [**Mayores y menores**](./05-mayores-menores)
+  Implemente uma função que dado uma array de números devolva outro array 
+  com 3 elementos: o número maior, o menor e o segundo maior do array.
 
-  Dificultad: `media` / Etiquetas: `Array`, `Logic`
 
-  Implementa una función que dado un arreglo de números devuelva otro arreglo
-  con 3 elementos: el número mayor, el menor y el segundo mayor del arreglo.
+- [**Nomes**](./06-nombres)
 
-- [**Nombres**](./06-nombres)
+ Dificuldade: `fácil` / Etiquetas: `Array`, `String`
+ 
+ Implemente uma função que recebe um array de strings com nomes de 
+ pessoas, e retorna um novo array de strings somente com os nomes formatados de uma forma particular.
 
-  Dificultad: `fácil` / Etiquetas: `Array`, `String`
-
-  Implementa una función que recibe un arreglo de strings con nombres de
-  personas, y retorna un nuevo arreglo de strings con los nombres formateados de
-  una manera en particular.
 
 - [**Palíndromo**](./07-palindrome)
 
-  Dificultad: `fácil` / Etiquetas: `String`, `Logic`
+  Dificuldade: `fácil` / Etiquetas: `String`, `Logic`
+  
+  Crie uma função que identifica se uma string é um palíndromo (isto é, 
+  é lida da mesma forma começando da direita ou da esquerda), retornando true se é ou false se não é.
 
-  Crea una función que identifique si un string es un palíndromo (esto es, se
-  lee igual al derecho o al revés), retornando `true` si lo es o `false` si no.
 
 - [**Count vowels**](./08-count-vowels)
 
-  Dificultad: `fácil` / Etiquetas: `String`, `Object`
+  Dificuldade: `fácil` / Etiquetas: `String`, `Object`
 
-  Implementa una función que reciba un `String` como único argumento y retorne
-  un objeto con 5 propiedades; una para cada vocal, donde la llave (_key_) es la
-  vocal en sí, y el valor (_value_) es un número (`Number`) que representa en
-  número de veces que aparece dicha vocal en el `String` que recibe como
-  argumento.
+  Implemente uma função que receba uma String como único argumento e retorne
+  um objeto com 5 propriedades; uma para cada vogal, onde a chave (_key_) é a      
+  vogal em si, e o valor (_value_) é um número (`Number`) que representa 
+  o número de vezes que aparece a vogal na `String` que recebe como argumento.
 
 - [**Mask Credit Card**](./09-mask-credit-card)
 
-  Dificultad: `fácil` / Etiquetas: `String`
+  Dificuldade: `fácil` / Etiquetas: `String`
+  
+  Implemente uma função que receba uma string como único argumento e retorne 
+  uma `string` onde todos, menos os últimos quatro caracteres, sejam substituídos por um numeral/hashtag (`#`).
 
-  Implementa una función que reciba un `string` como único argumento y retorne
-  un `string` donde todos menos los últimos cuatro caracteres sean reemplazados
-  por un numeral/gato (`#`).
 
 - [**Anagramas**](./10-anagrams)
 
-  Dificultad: `fácil` / Etiquetas: `String`, `Logic`
+  Dificuldade: `fácil` / Etiquetas: `String`, `Logic`
+  
+  Implemente uma função que verifique se duas strings são anagramas entre elas, ou seja, se as duas
+  tem as mesmas letras, com o mesmo número de aparições, mas em ordem diferente.
 
-  Implementa una función que compruebe si dos strings son anagramas entre ellas,
-  es decir, si las dos tienen las mismas letras, con el mismo número de
-  apariciones, pero en un orden diferente.
 
 - [**Capitalize**](./11-capitalize)
 
-  Dificultad: `fácil` / Etiquetas: `String`
+  Dificuldade: `fácil` / Etiquetas: `String`
+  Implemente uma função que receba uma `String`, transforme a primeira letra de cada palavra
+  em maiúscula e retorne uma nova `String` com o resultado.
 
-  Implementa una función que acepte un `String`, ponga la primera letra de cada
-  palabra en mayúscula y que retorne un nuevo `String` con el resultado.
 
 - [**Chunk**](./12-chunk)
 
-  Dificultad: `media` / Etiquetas: `Array`, `Logic`
+  Dificuldade: `media` / Etiquetas: `Array`, `Logic`
+  
+  Implemente uma função que dado um array e um número `n`, divida o array
+  recebido em sub-arrays de tamanho máximo `n`.
 
-  Implementa una función que dado un arreglo y un número `n`, divida el arreglo
-  recibido en subarreglos de longitud máxima `n`.
 
 - [**FizzBuzz**](./13-fizzbuzz)
 
-  Dificultad: `fácil` / Etiquetas: `Logic`
+  Dificuldade: `fácil` / Etiquetas: `Logic`
 
-  Implementa una función que imprima los números de `1` a `n`, pero para los
-  múltiplos de `3` imprime `fizz` en vez del número, y para los múltiplos de `5`
-  imprime `buzz`. Para números que sean múltiplos de ambos (`3` y `5`) debe
-  imprimir `fizzbuzz`.
-
-  Este ejercicio es un clásico, y se presta a explorar cómo evitar repetir
-  condiciones (ver ejemplo
+  Implemente uma função que imprima números de `1` a `n`, mas para os 
+  múltiplos de `3` imprima `fizz` ao invés do número, e para os múltiplos de `5`
+  imprima buzz. Para números que sejam múltiplos de ambos (`3` e `5`) deve imprimir fizzbuzz.
+  
+  Esse exercício é um clássico, e ajuda a entender como evitar a repetição de condições (ver exemplo
   [_naive_](./13-fizzbuzz/solutions/fizzbuzz-naive.js) vs
   [_mejor_](./13-fizzbuzz/solutions/fizzbuzz-better.js)).
 
+
 - [**Hourglass sum**](./14-hour-glass)
 
-  Dificultad: `media` / Etiquetas: `Array`, `Logic`
+  Dificuldade: `média` / Etiquetas: `Array`, `Logic`
+  
+  Dado um array de números de duas dimensões (`matriz`), temos que identificar elementos 
+  seguindo um padrão (`ampulheta`), calcular a soma de cada subconjunto  e retornar a de maior valor.
 
-  Dado un arreglo de números de dos dimensiones (matriz), tenemos que
-  identificar elementos siguiendo un patrón (_reloj de arena_), calcular la suma
-  de cada subconjunto y retornar la de mayor valor.
 
 - [**Dynamic array**](./15-dynamic-array)
 
-  Dificultad: `media` / Etiquetas: `Array`, `Math (^, %)`
+  Dificuldade: `média` / Etiquetas: `Array`, `Math (^, %)`
 
-  Implementa una función que siga una serie de pasos, teniendo que crear una
-  serie de listas/arreglos y llevar a cabo operaciones/consultas que recibimos
-  como input.
+  Implemente uma função que siga uma série de passos, tendo que criar uma série 
+  de listas/arrays e realizar operações/consultas que recebemos como input.
+  
+  Este exercício pode ser um pouco assustador porque fala sobre operações em bits como XOR e operações 
+  matemáticas como %, mas na verdade trata-se principalmente de seguir os passos bem detalhados do enunciado. 
+  Requer uma leitura minuciosa do enunciado e seguir o que está descrito ali, não necessariamente inventar algo ou resolver um problema de lógica.
 
-  Este ejercicio puede asustar un poco porque habla de operaciones sobre bits
-  como XOR y matemáticas como `%`, pero en realidad se trata principalmente de
-  seguir pasos bien detallados en el enunciado. Requiere minuciosidad en la
-  lectura del enunciado y seguir lo descrito ahí, no necesariamente _inventar_
-  algo o _resolver_ un problema de lógica.
 
 - [**Left rotation**](./16-left-rotation)
 
-  Dificultad: `fácil` / Etiquetas: `Array`, `Logic`
+  Dificuldade: `fácil` / Etiquetas: `Array`, `Logic`
 
-  Una operación de rotación hacia la izquierda (left rotation) sobre un arreglo
-  de longitud `n` mueve cada elemento del arreglo `1` unidad hacia la izquierda.
-  Dado un número entero `d`, rota el arreglo `arr` a la izquierda ese número de
-  veces (`d`) y retorna el resultado.
-
-  Este ejercicio se presta a sugerir explorar diferentes implementaciones, por
-  ejemplo usando bucles, recursión, métodos de arreglos como `slice`, etc).
+  Uma operação de rotação no sentido anti-horário (left rotation), sobre um array 
+  de tamanho `n` move cada elemento do array `1` unidade para a esquerda. 
+  Dado um número inteiro `d`, rotacione o array `arr` para a esquerda esse número de 
+  vezes (`d`) e retorne o resultado.
+  
+  Esse exercício tem o objetivo de explorar diferentes implementações, por 
+  exemplo usando loops, recursividade, métodos de array como `slice`, etc).
