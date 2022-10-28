@@ -22,14 +22,12 @@ maskify(""); // => ""
 
 ## Descrição (Português)
 
-Implementa una función `maskify` que reciba un `string` como único argumento y
-retorne un `string` donde todos menos los últimos cuatro caracteres sean
-reemplazados por un numeral/gato (`#`).
+Implemente uma função `maskify` que receba uma `string` como único argumento e 
+retorne uma `string` onde todos menos os últimos quatro caracteres sejam substituídos por um numeral/hashtag (`#`).
 
-Esta función deberá siempre mantener los últimos cuatro caracteres intactos, aún
-cuando el `string` sea de menor longitud.
+Esta função deve sempre manter os últimos quatro caracteres intactos, mesmo quando a string for mais curta.
 
-### Ejemplo de uso
+### Exemplo de uso
 
 ```js
 maskify("4556364607935616"); // => "############5616"
