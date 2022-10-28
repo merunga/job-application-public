@@ -16,8 +16,9 @@ isPalindrome('stresseddesserts') // returns true
 
 ## Descrição (Português)
 
-Crea una función que identifique si un string es un palíndromo (esto es, se lee
-igual al derecho o al revés), retornando _true_ si lo es o _false_ si no.
+Crie uma função que identifica se uma string é um palíndromo (ou seja, a palavra é lida da mesma forma de trás para frente também), 
+retornando _true_ se for ou _false_ se não for.
+
 
 ````js
 isPalindrome('ana') // returns true
