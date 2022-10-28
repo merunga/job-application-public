@@ -22,13 +22,13 @@ chunk([1, 2, 3, 4, 5], 10) // --> [[1, 2, 3, 4, 5]]
 
 ## Descrição (Português)
 
-Implementa una función que dado un arreglo y un número `n`, divida el arreglo
-recibido en _subarreglos_ de longitud máxima `n`.
+Implemente uma função que dado um array e um número `n`, divida o array
+recebido em _subarrays_ de tamanho máximo `n`.
 
-El valor de retorno debe ser un arreglo donde cada elemento sea un subarreglo.
-Tendremos así un arreglo de arreglos.
+O valor de retorno deve ser um array onde cada elemento é um subarray. 
+Teremos assim um array de arrays.
 
-### Ejemplos
+### Exemplos
 
 ```js
 chunk([1, 2, 3, 4], 2) // --> [[1, 2], [3, 4]]
