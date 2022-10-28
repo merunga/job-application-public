@@ -20,9 +20,9 @@ console.log(getPrintableNames(people));
 
 ## Descrição (Português)
 
-Implementa una función que recibe un arreglo de strings con nombres de personas,
-y retorna un nuevo arreglo de strings con los nombres formateados de la
-siguiente manera:
+Implemente uma função que receba um array de strings com nomes de pessoas e retorne 
+um novo array de strings com os nomes formatados da seguinte forma:
+
 
 ```js
 const getPrintableNames = (arr) => {
