@@ -25,22 +25,19 @@ Alternativamente propón una solución que haga uso de `.slice`, `.substring` o
 
 ## Descrição (Português)
 
+Escreva uma função que recebe um `texto` e um `sub-texto` e retorne `true` se o `texto` contém o `sub-text`o e `false` em caso contrário.
 
-Escribe una función que tome un `texto` y un `subtexto` y devuelva `true` si el
-`texto` contiene el `subtexto` y `false` en caso contrario.
-
-Ejemplo:
+Exemplo:
 
 ```js
 hasText('Laboratoria', 'oratoria');
 // true
 
-hasText('Equipo', 'yo');
+hasText('Equipe', 'eu');
 // false
 ```
 
-Propón una solución que no haga uso de métodos de strings y que no convierta el
-string en un arreglo.
+Proponha uma solução que não use métodos de string e não converta a string em um array.
 
-Alternativamente propón una solución que haga uso de `.slice`, `.substring` o
-`.substr`.
+Alternativamente proponha uma solução que faça uso de `.slice`, `.substring` ou `.substr`.
+
