@@ -25,12 +25,12 @@ console.log(max2); // 32
 
 ## Descrição (Português)
 
-Implementa una función que reciba un arreglo de números y devuelva un nuevo
-arreglo con 3 elementos, en este orden:
+Implemente uma função que receba um array de números e retorne um novo array com 3 elementos, nesta ordem:
 
-- el número mayor del arreglo.
-- el número menor del arreglo.
-- el segundo número mayor del arreglo.
+- o maior número do array.
+- o menor número do array.
+- o segundo maior número do array.
+
 
 ```js
 const analyseArray = (arr) => {
