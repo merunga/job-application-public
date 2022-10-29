@@ -1,4 +1,4 @@
-# Ejercicios
+# Exercicios
 
 - [**Stringitis**](./01-stringitis)
 
