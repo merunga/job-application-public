@@ -39,34 +39,35 @@ Valor de retorno: El arreglo rotado.
 
 ## Descrição (Português)
 
-[_Enunciado original en Hacker Rank_](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+[_Enunciado original em Hacker Rank_](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 
 ***
 
-Una operación de _rotación hacia la izquierda_ (_left rotation_) sobre un
-arreglo de longitud `n` mueve cada elemento del arreglo `1` unidad hacia la
-izquierda. Dado un número entero `d`, rota el arreglo `arr` a la izquierda ese
-número de veces (`d`) y retorna el resultado.
+Uma operação de _rotação para a esquerda_ (_left rotation_) sobre um 
+array de tamanho `n` move cada elemento do array `1` uma unidade para 
+a esquerda. Dado um número inteiro `d`, rotacione o array `arr` para a esquerda esse 
+número de vezes (`d`) e retorne o resultado.
 
-### Ejemplo
+
+### Exemplo
 
 ```
 d = 2
 arr = [1, 2, 3, 4, 5]
 ```
 
-Después de `2` rotaciones, `arr' = [3, 4, 5, 1, 2]`.
+Depois de `2` rotações, `arr' = [3, 4, 5, 1, 2]`.
 
-### Descripción de la función a implementar
+### Descrição da função a implementar
 
-Completa la función `rotateLeft`, la cuál recibe los siguientes argumentos:
+Complete a função `rotateLeft`, que recebe os seguintes argumentos:
 
-- `d`: Un número entero que indica cuántas rotacines hacer.
-- `arr`: Un arreglo sobre el que hacer las operaciones de rotación.
+- `d`: Um número inteiro que indica quantas rotações fazer.
+- `arr`: Um array sobre o qual fazer as operações de rotação.
 
-Valor de retorno: El arreglo rotado.
+Valor de retorno: O array rotacionado.
 
-### Limitaciones
+### Limitações
 
 * `1 <= n <= Math.pow(10, 5)`
 * `1 <= d <= n`
